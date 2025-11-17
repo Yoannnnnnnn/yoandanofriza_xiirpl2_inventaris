@@ -60,7 +60,7 @@ if ($projectBase === '/' || $projectBase === '') {
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="<?= $projectBase ?>/export.php">
+                    <a class="nav-link" href="<?= $projectBase ?>/export_xlsx.php">
                         <i class="bi bi-download"></i> Export Data
                     </a>
                 </li>

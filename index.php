@@ -71,9 +71,6 @@ if (isset($_GET['registered']) && $_GET['registered'] == '1') {
                         <i class="bi bi-box-arrow-in-right"></i> Login
                     </button>
                 </div>
-                <div class="auth-actions">
-                    <a href="pages/register.php" class="btn btn-outline btn-sm" style="text-align:center; padding:0.5rem 0.75rem;">Daftar</a>
-                </div>
             </form>
         </div>
     </div>
